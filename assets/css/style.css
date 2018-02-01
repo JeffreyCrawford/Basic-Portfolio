@@ -1,0 +1,52 @@
+.navbar {
+    background-color: grey;
+}
+
+.name {
+    font-size: 28px;
+    color: white;
+    background-color: rgb(51, 30, 170);
+    text-align: center;
+    margin-right: 750px;
+    margin-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.icons {
+    width: 80px;
+    height: 80px;
+}
+
+.about {
+    color: rgb(49, 49, 49);
+    float: left;
+}
+
+.profilepic {
+    width: 250px;
+    height: 250px;
+    float: left;
+    margin-right: 30px;
+}
+
+.aside {
+    float: right;
+    width: 30%
+}
+
+.profile {
+    width: 70%;
+    float: left;
+}
+
+.about {
+    float: left;
+}
+
+.footer {
+    clear: both;
+}
+
